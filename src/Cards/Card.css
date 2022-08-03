@@ -1,0 +1,42 @@
+/*  */
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+}
+
+.mains{
+    border: 2px solid black;
+
+}
+
+h2{
+    color: red;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+}
+
+
+h5{
+    background-color: black;
+    color: white;
+    width: 45%;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h5:hover{
+    background-color: rgb(209, 136, 136);
+    color: black;
+    font-style: italic;
+}

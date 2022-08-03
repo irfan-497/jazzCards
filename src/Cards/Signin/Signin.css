@@ -1,0 +1,26 @@
+label{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+input{
+    padding: 5px;
+    margin: 5px;
+}
+
+button{
+
+    padding: 5px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+    font-style: italic;
+}

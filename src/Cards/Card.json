@@ -1,0 +1,71 @@
+[
+    {
+        "id":1,
+        "name":"Mentholy Pkg",
+        "Description":"Super Mentholy",
+        "jazzMinutes":"3000Minutes",
+        "jazzSMS":"3000SMS",
+        "jazzMB":"6gb",
+        "price":"700 Rs",
+        "button":"Add to Cart",
+        "img":"/img/foot2.png"
+    },
+
+    {
+        "id":2,
+        "name":"Weekly Pkg",
+        "Description":"Super Weekly",
+        "jazzMinutes":"2000Minutes",
+        "jazzSMS":"2000SMS",
+        "jazzMB":"3gb",
+        "price":"250 Rs",
+        "button":"Add to Cart",
+        "img":"/img/foot.png"
+    },
+
+    {
+        "id":3,
+        "name":"Weekly Pkg",
+        "Description":"Super Weekly",
+        "jazzMinutes":"3000Minutes",
+        "jazzSMS":"3000SMS",
+        "jazzMB":"6gb",
+        "price":"700 Rs",
+        "button":"Add to Cart",
+        "img":"/img/foot3.png"
+    },
+
+    {
+        "id":4,
+        "name":"Mentholy Pkg",
+        "Description":"Super Mentholy",
+        "jazzMinutes":"3000Minutes",
+        "jazzSMS":"3000SMS",
+        "jazzMB":"6gb",
+        "price":"700 Rs",
+        "button":"Add to Cart",
+        "img":"/img/foot2.png"
+    },
+
+    {
+        "id":5,
+        "name":"Mentholy Pkg",
+        "Description":"Super Mentholy",
+        "jazzMinutes":"3000Minutes",
+        "jazzSMS":"3000SMS",
+        "jazzMB":"6gb",
+        "price":"700 Rs",
+        "button":"Add to Cart",
+        "img":"/img/foot.png"
+    },{
+        "id":6,
+        "name":"Weekly Pkg",
+        "Description":"Super Weekly",
+        "jazzMinutes":"3000Minutes",
+        "jazzSMS":"3000SMS",
+        "jazzMB":"6gb",
+        "price":"700 Rs",
+        "button":"Add to Cart",
+        "img":"/img/jazz1.png"        
+    }
+]
